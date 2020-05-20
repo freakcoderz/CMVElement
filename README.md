@@ -9,7 +9,7 @@ Block Time: 1 minute
 PoS percentage: Reduced each year starting at 9.71%
 Minimum PoS Age: 5 hours
 Transaction Fee: 0.0001 CVME
-Maturity: 5 block
+Maturity: 3 block
 Default port: 22222
 RPC Port: 32323
 Address Prefix: c
