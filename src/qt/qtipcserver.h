@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define CMV Element-qt message queue name
-#define BITCOINURI_QUEUE_NAME "CMV ElementURI"
+// Define CMVElement-qt message queue name
+#define BITCOINURI_QUEUE_NAME "CMVElementURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

@@ -1,7 +1,7 @@
-# CMV Element
+# CMVElement
 
 Ticker: CMVE
-Name: CMV Element
+Name: CMVElement
 Algorithm: POS / (X11)
 Maximum Coin Supply: 1,235813.21 CVME
 Premine: 123,581.321 CVME

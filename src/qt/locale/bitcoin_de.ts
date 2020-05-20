@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About CMV Element</source>
-        <translation>Über CMV Element</translation>
+        <source>About CMVElement</source>
+        <translation>Über CMVElement</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;CMV Element&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;CMV Element&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;CMVElement&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CMVElement&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The CMVElement developers
-Copyright © 2020 The CMV Element developers</source>
+Copyright © 2020 The CMVElement developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your CMV Element addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre CMV Element Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
+        <source>These are your CMVElement addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre CMVElement Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer sie bezahlt.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,7 +78,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a CMV Element address</source>
+        <source>Sign a message to prove you own a CMVElement address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -93,7 +93,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified CMV Element address</source>
+        <source>Verify a message to ensure it was signed with a specified CMVElement address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -261,7 +261,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-58"/>
-        <source>CMV Element will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>CMVElement will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -375,7 +375,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about CMV Element</source>
+        <source>Show information about CMVElement</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -425,12 +425,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a CMV Element address</source>
+        <source>Send coins to a CMVElement address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for CMV Element</source>
+        <source>Modify configuration options for CMVElement</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -470,7 +470,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-200"/>
-        <source>CMV Element</source>
+        <source>CMVElement</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -480,7 +480,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About CMV Element</source>
+        <source>&amp;About CMVElement</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -537,12 +537,12 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>CMV Element client</source>
+        <source>CMVElement client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to CMV Element network</source>
+        <source>%n active connection(s) to CMVElement network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -656,7 +656,7 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid CMV Element address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid CMVElement address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -716,7 +716,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. CMV Element can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. CMVElement can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1036,8 +1036,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid CMV Element address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige CMV Element Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid CMVElement address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige CMVElement Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1055,7 +1055,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>CMV Element-Qt</source>
+        <source>CMVElement-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1128,13 +1128,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start CMV Element after logging in to the system.</source>
-        <translation>Automatisch CMV Element starten beim Einloggen in das System.</translation>
+        <source>Automatically start CMVElement after logging in to the system.</source>
+        <translation>Automatisch CMVElement starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start CMV Element on system login</source>
-        <translation>&amp;Starte CMV Element bei Systemstart</translation>
+        <source>&amp;Start CMVElement on system login</source>
+        <translation>&amp;Starte CMVElement bei Systemstart</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1153,8 +1153,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the CMV Element client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den CMV Element client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the CMVElement client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den CMVElement client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1163,7 +1163,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the CMV Element network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the CMVElement network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1238,7 +1238,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting CMV Element.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting CMVElement.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show CMV Element addresses in the transaction list or not.</source>
-        <translation>CMV Element Adressen in der Überweisung anzeigen oder nicht.</translation>
+        <source>Whether to show CMVElement addresses in the transaction list or not.</source>
+        <translation>CMVElement Adressen in der Überweisung anzeigen oder nicht.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1300,7 +1300,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting CMV Element.</source>
+        <source>This setting will take effect after restarting CMVElement.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1319,8 +1319,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMV Element network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem CMV Element Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMVElement network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem CMVElement Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1535,7 +1535,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the CMV Element-Qt help message to get a list with possible CMV Element command-line options.</source>
+        <source>Show the CMVElement-Qt help message to get a list with possible CMVElement command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1555,13 +1555,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>CMV Element - Debug window</source>
-        <translation>CMV Element - Debug Fenster</translation>
+        <source>CMVElement - Debug window</source>
+        <translation>CMVElement - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>CMV Element Core</source>
-        <translation>CMV Element Kern</translation>
+        <source>CMVElement Core</source>
+        <translation>CMVElement Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1570,7 +1570,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the CMV Element debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the CMVElement debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1580,7 +1580,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the CMV Element RPC console.</source>
+        <source>Welcome to the CMVElement RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1739,7 +1739,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1839,7 +1839,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid CMV Element address</source>
+        <source>WARNING: Invalid CMVElement address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1913,7 +1913,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1974,8 +1974,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this CMV Element address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser CMV Element Adresse bist.</translation>
+        <source>Sign the message to prove you own this CMVElement address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser CMVElement Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2006,7 +2006,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified CMV Element address</source>
+        <source>Verify the message to ensure it was signed with the specified CMVElement address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2017,7 +2017,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2027,8 +2027,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter CMV Element signature</source>
-        <translation>CMV Element Signatur eingeben</translation>
+        <source>Enter CMVElement signature</source>
+        <translation>CMVElement Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2598,7 +2598,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>CMV Element version</source>
+        <source>CMVElement version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2608,8 +2608,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or CMV Elementd</source>
-        <translation>Kommando versenden an -server oder CMV Elementd </translation>
+        <source>Send command to -server or CMVElementd</source>
+        <translation>Kommando versenden an -server oder CMVElementd </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,13 +2628,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: CMV Element.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: CMV Element.conf)</translation>
+        <source>Specify configuration file (default: CMVElement.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: CMVElement.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: CMV Elementd.pid)</source>
-        <translation>PID Datei angeben (Standard: CMV Element.pid)</translation>
+        <source>Specify pid file (default: CMVElementd.pid)</source>
+        <translation>PID Datei angeben (Standard: CMVElement.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2783,8 +2783,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMV Element will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist CMV Element nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMVElement will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist CMVElement nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2972,13 +2972,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=CMV Elementrpc
+rpcuser=CMVElementrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CMVElement Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3104,13 +3104,13 @@ for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  CMV Element is probably already running.</source>
-        <translation>Kann das Verzeichniss nicht einbinden %s. CMV Element Brieftasche läuft wahrscheinlich bereits.</translation>
+        <source>Cannot obtain a lock on data directory %s.  CMVElement is probably already running.</source>
+        <translation>Kann das Verzeichniss nicht einbinden %s. CMVElement Brieftasche läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3144,13 +3144,13 @@ for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CMV Element</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der CMV Element Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CMVElement</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der CMVElement Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart CMV Element to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die CMV Element Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart CMVElement to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die CMVElement Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3219,7 +3219,7 @@ for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. CMV Element is probably already running.</source>
+        <source>Unable to bind to %s on this computer. CMVElement is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>

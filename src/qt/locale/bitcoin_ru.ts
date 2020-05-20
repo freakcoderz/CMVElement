@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About CMV Element</source>
-        <translation>О CMV Element</translation>
+        <source>About CMVElement</source>
+        <translation>О CMVElement</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;CMV Element&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;CMV Element&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;CMVElement&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CMVElement&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The CMVElement developers
-Copyright © 2020 The CMV Element developers</source>
+Copyright © 2020 The CMVElement developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики CMVElement
-Все права защищены © 2020 Разработчики CMV Element</translation>
+Все права защищены © 2020 Разработчики CMVElement</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your CMV Element addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your CMVElement addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a CMV Element address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом CMV Element</translation>
+        <source>Sign a message to prove you own a CMVElement address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом CMVElement</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified CMV Element address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом CMV Element</translation>
+        <source>Verify a message to ensure it was signed with a specified CMVElement address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом CMVElement</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>CMV Element will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>CMVElement will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about CMV Element</source>
-        <translation>Показать информацию о CMV Element&apos;е</translation>
+        <source>Show information about CMVElement</source>
+        <translation>Показать информацию о CMVElement&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a CMV Element address</source>
-        <translation>Отправить монеты на указанный адрес CMV Element</translation>
+        <source>Send coins to a CMVElement address</source>
+        <translation>Отправить монеты на указанный адрес CMVElement</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for CMV Element</source>
-        <translation>Изменить параметры конфигурации CMV Element</translation>
+        <source>Modify configuration options for CMVElement</source>
+        <translation>Изменить параметры конфигурации CMVElement</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About CMV Element</source>
-        <translation>&amp;О CMV Element</translation>
+        <source>&amp;About CMVElement</source>
+        <translation>&amp;О CMVElement</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>CMV Element client</source>
-        <translation>CMV Element клиент</translation>
+        <source>CMVElement client</source>
+        <translation>CMVElement клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to CMV Element network</source>
+        <source>%n active connection(s) to CMVElement network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -659,8 +659,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid CMV Element address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом CMV Element или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CMVElement address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом CMVElement или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. CMV Element can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. CMV Element не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. CMVElement can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. CMVElement не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1039,8 +1039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid CMV Element address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным CMV Element-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid CMVElement address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным CMVElement-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>CMV Element-Qt</source>
-        <translation>CMV Element-Qt</translation>
+        <source>CMVElement-Qt</source>
+        <translation>CMVElement-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start CMV Element after logging in to the system.</source>
-        <translation>Автоматически запускать CMV Element после входа в систему</translation>
+        <source>Automatically start CMVElement after logging in to the system.</source>
+        <translation>Автоматически запускать CMVElement после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start CMV Element on system login</source>
-        <translation>&amp;Запускать CMV Element при входе в систему</translation>
+        <source>&amp;Start CMVElement on system login</source>
+        <translation>&amp;Запускать CMVElement при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,8 +1156,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the CMV Element client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для CMV Element-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the CMVElement client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для CMVElement-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the CMV Element network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети CMV Element через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the CMVElement network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети CMVElement через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,8 +1241,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting CMV Element.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска CMV Element.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CMVElement.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска CMVElement.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show CMV Element addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса CMV Element в списке транзакций.</translation>
+        <source>Whether to show CMVElement addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса CMVElement в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1303,8 +1303,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting CMV Element.</source>
-        <translation>Эта настройка вступит в силу после перезапуска CMV Element</translation>
+        <source>This setting will take effect after restarting CMVElement.</source>
+        <translation>Эта настройка вступит в силу после перезапуска CMVElement</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1322,8 +1322,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMV Element network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью CMV Element после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMVElement network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью CMVElement после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1538,8 +1538,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the CMV Element-Qt help message to get a list with possible CMV Element command-line options.</source>
-        <translation>Показать помощь по CMV Element-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the CMVElement-Qt help message to get a list with possible CMVElement command-line options.</source>
+        <translation>Показать помощь по CMVElement-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1558,13 +1558,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>CMV Element - Debug window</source>
-        <translation>CMV Element - Окно отладки</translation>
+        <source>CMVElement - Debug window</source>
+        <translation>CMVElement - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>CMV Element Core</source>
-        <translation>Ядро CMV Element</translation>
+        <source>CMVElement Core</source>
+        <translation>Ядро CMVElement</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1573,8 +1573,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the CMV Element debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл CMV Element из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the CMVElement debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл CMVElement из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the CMV Element RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль CMV Element.</translation>
+        <source>Welcome to the CMVElement RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль CMVElement.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Введите CMV Element-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Введите CMVElement-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1842,7 +1842,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid CMV Element address</source>
+        <source>WARNING: Invalid CMVElement address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1916,8 +1916,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Введите CMV Element-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Введите CMVElement-адрес (например 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this CMV Element address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом CMV Element</translation>
+        <source>Sign the message to prove you own this CMVElement address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом CMVElement</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2009,8 +2009,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified CMV Element address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом CMV Element</translation>
+        <source>Verify the message to ensure it was signed with the specified CMVElement address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом CMVElement</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Введите адрес CMV Element (напр. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Введите адрес CMVElement (напр. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter CMV Element signature</source>
-        <translation>Введите подпись CMV Element</translation>
+        <source>Enter CMVElement signature</source>
+        <translation>Введите подпись CMVElement</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2601,7 +2601,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>CMV Element version</source>
+        <source>CMVElement version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2611,8 +2611,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or CMV Elementd</source>
-        <translation>Отправить команду на -server или CMV Elementd</translation>
+        <source>Send command to -server or CMVElementd</source>
+        <translation>Отправить команду на -server или CMVElementd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2632,13 +2632,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: CMV Element.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: CMV Element.conf)</translation>
+        <source>Specify configuration file (default: CMVElement.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: CMVElement.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: CMV Elementd.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: CMV Elementd.pid)</translation>
+        <source>Specify pid file (default: CMVElementd.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: CMVElementd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2787,8 +2787,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMV Element will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, CMV Element будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMVElement will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, CMVElement будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2977,13 +2977,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=CMV Elementrpc
+rpcuser=CMVElementrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CMVElement Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3109,13 +3109,13 @@ for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  CMV Element is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  CMVElement is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CMV Element</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию CMV Element</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CMVElement</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию CMVElement</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart CMV Element to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите CMV Element для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart CMVElement to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите CMVElement для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3224,8 +3224,8 @@ for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. CMV Element is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, CMV Element уже работает.</translation>
+        <source>Unable to bind to %s on this computer. CMVElement is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, CMVElement уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

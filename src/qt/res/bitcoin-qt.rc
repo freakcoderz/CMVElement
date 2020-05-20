@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "CMV Element"
-            VALUE "FileDescription",    "CMV Element-qt (OSS GUI client for CMV Element)"
+            VALUE "CompanyName",        "CMVElement"
+            VALUE "FileDescription",    "CMVElement-qt (OSS GUI client for CMVElement)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "CMV Element-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The CMVElement & PPCoin developers, 2020 The CMV Element developers"
+            VALUE "InternalName",       "CMVElement-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The CMVElement & PPCoin developers, 2020 The CMVElement developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "CMV Element-qt.exe"
-            VALUE "ProductName",        "CMV Element-qt"
+            VALUE "OriginalFilename",   "CMVElement-qt.exe"
+            VALUE "ProductName",        "CMVElement-qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

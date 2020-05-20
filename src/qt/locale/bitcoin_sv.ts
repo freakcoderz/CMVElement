@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About CMV Element</source>
+        <source>About CMVElement</source>
         <translation>Vad du behöver veta om BTestcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;CMV Element&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;CMV Element&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;CMVElement&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CMVElement&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The CMVElement developers
-Copyright © 2020 The CMV Element developers</source>
+Copyright © 2020 The CMVElement developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The CMVElement developers
-Copyright © 2020 The CMV Element developers</translation>
+Copyright © 2020 The CMVElement developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your CMV Element addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina CMV Element adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your CMVElement addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina CMVElement adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a CMV Element address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger CMV Element adressen</translation>
+        <source>Sign a message to prove you own a CMVElement address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger CMVElement adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified CMV Element address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik CMV Element adress</translation>
+        <source>Verify a message to ensure it was signed with a specified CMVElement address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik CMVElement adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,7 +264,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>CMV Element will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>CMVElement will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>BTestcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about CMV Element</source>
-        <translation>Visa information om CMV Element</translation>
+        <source>Show information about CMVElement</source>
+        <translation>Visa information om CMVElement</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a CMV Element address</source>
-        <translation>Skicka coins till en CMV Element adress</translation>
+        <source>Send coins to a CMVElement address</source>
+        <translation>Skicka coins till en CMVElement adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for CMV Element</source>
-        <translation>Modifiera konfigurations-alternativ för CMV Element</translation>
+        <source>Modify configuration options for CMVElement</source>
+        <translation>Modifiera konfigurations-alternativ för CMVElement</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About CMV Element</source>
-        <translation>&amp;Om CMV Element</translation>
+        <source>&amp;About CMVElement</source>
+        <translation>&amp;Om CMVElement</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>CMV Element client</source>
-        <translation>CMV Element klient</translation>
+        <source>CMVElement client</source>
+        <translation>CMVElement klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to CMV Element network</source>
-        <translation><numerusform>%n aktiv anslutning till CMV Element nätverket</numerusform><numerusform>%n aktiva anslutning till CMV Element nätverket</numerusform></translation>
+        <source>%n active connection(s) to CMVElement network</source>
+        <translation><numerusform>%n aktiv anslutning till CMVElement nätverket</numerusform><numerusform>%n aktiva anslutning till CMVElement nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid CMV Element address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig CMV Element adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CMVElement address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig CMVElement adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,7 +720,7 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. CMV Element can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. CMVElement can no longer continue safely and will quit.</source>
         <translation>Ett fatalt fel uppstod. BTestcoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
@@ -1054,7 +1054,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid CMV Element address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid CMVElement address.</source>
         <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BTestcoin adress.</translation>
     </message>
     <message>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>CMV Element-Qt</source>
-        <translation>CMV Element-Qt</translation>
+        <source>CMVElement-Qt</source>
+        <translation>CMVElement-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,12 +1146,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start CMV Element after logging in to the system.</source>
+        <source>Automatically start CMVElement after logging in to the system.</source>
         <translation>Starta BTestcoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start CMV Element on system login</source>
+        <source>&amp;Start CMVElement on system login</source>
         <translation>&amp;Starta BTestcoin vid inloggning</translation>
     </message>
     <message>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the CMV Element client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt CMV Element klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the CMVElement client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt CMVElement klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the CMV Element network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till CMV Element nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the CMVElement network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till CMVElement nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting CMV Element.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av CMV Element.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CMVElement.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av CMVElement.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show CMV Element addresses in the transaction list or not.</source>
-        <translation>Om CMV Element adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show CMVElement addresses in the transaction list or not.</source>
+        <translation>Om CMVElement adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting CMV Element.</source>
-        <translation>Inställningen börjar gälla efter omstart av CMV Element.</translation>
+        <source>This setting will take effect after restarting CMVElement.</source>
+        <translation>Inställningen börjar gälla efter omstart av CMVElement.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMV Element network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med CMV Element nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMVElement network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med CMVElement nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the CMV Element-Qt help message to get a list with possible CMV Element command-line options.</source>
-        <translation>Visa CMV Element-Qt hjälp meddelandet för att få en lista över möjliga CMV Element kommandoradsalternativ.</translation>
+        <source>Show the CMVElement-Qt help message to get a list with possible CMVElement command-line options.</source>
+        <translation>Visa CMVElement-Qt hjälp meddelandet för att få en lista över möjliga CMVElement kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>CMV Element - Debug window</source>
-        <translation>CMV Element - Felsökningsfönster</translation>
+        <source>CMVElement - Debug window</source>
+        <translation>CMVElement - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>CMV Element Core</source>
-        <translation>CMV Element Core</translation>
+        <source>CMVElement Core</source>
+        <translation>CMVElement Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the CMV Element debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna CMV Element felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the CMVElement debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna CMVElement felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the CMV Element RPC console.</source>
-        <translation>Välkommen till CMV Element RPC konsoll.</translation>
+        <source>Welcome to the CMVElement RPC console.</source>
+        <translation>Välkommen till CMVElement RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en CMV Element adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en CMVElement adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid CMV Element address</source>
-        <translation>VARNING: Ogiltig CMV Element adress</translation>
+        <source>WARNING: Invalid CMVElement address</source>
+        <translation>VARNING: Ogiltig CMVElement adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en CMV Element adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en CMVElement adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this CMV Element address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna CMV Element adressen</translation>
+        <source>Sign the message to prove you own this CMVElement address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna CMVElement adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified CMV Element address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna CMV Element adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified CMVElement address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna CMVElement adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Fyll i en CMV Element adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Fyll i en CMVElement adress (t.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter CMV Element signature</source>
-        <translation>Fyll i CMV Element signatur</translation>
+        <source>Enter CMVElement signature</source>
+        <translation>Fyll i CMVElement signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>CMV Element version</source>
-        <translation>CMV Element version</translation>
+        <source>CMVElement version</source>
+        <translation>CMVElement version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or CMV Elementd</source>
-        <translation>Skicka kommando till -server eller CMV Elementd</translation>
+        <source>Send command to -server or CMVElementd</source>
+        <translation>Skicka kommando till -server eller CMVElementd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: CMV Element.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: CMV Element.conf)</translation>
+        <source>Specify configuration file (default: CMVElement.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: CMVElement.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: CMV Elementd.pid)</source>
-        <translation>Ange pid filen (standard CMV Elementd.pid)</translation>
+        <source>Specify pid file (default: CMVElementd.pid)</source>
+        <translation>Ange pid filen (standard CMVElementd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,7 +2801,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMV Element will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMVElement will not work properly.</source>
         <translation>Varning: Kolla att din dators tid och datum är rätt. BTestcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=CMV Elementrpc
+rpcuser=CMVElementrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CMVElement Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=CMV Elementrpc
+rpcuser=CMVElementrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;CMV Element Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;CMVElement Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;CMV Element Varning&quot; adm
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  CMV Element is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  CMVElement is probably already running.</source>
         <translation>Kan inte låsa datan i mappen %s. BTestcoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,12 +3173,12 @@ till exempel: alertnotify=echo %%s | mail -s &quot;CMV Element Varning&quot; adm
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CMV Element</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of CMVElement</source>
         <translation>Kunde inte ladda wallet.dat: En nyare version av BTestcoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart CMV Element to complete</source>
+        <source>Wallet needed to be rewritten: restart CMVElement to complete</source>
         <translation>Plånboken måste skrivas om: Starta om BTestcoin för att slutföra</translation>
     </message>
     <message>
@@ -3248,7 +3248,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;CMV Element Varning&quot; adm
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. CMV Element is probably already running.</source>
+        <source>Unable to bind to %s on this computer. CMVElement is probably already running.</source>
         <translation>Kan inte binda till %s på denna dator. BTestcoin är sannolikt redan startad.</translation>
     </message>
     <message>

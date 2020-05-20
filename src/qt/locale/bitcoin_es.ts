@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About CMV Element</source>
-        <translation>Acerca de CMV Element</translation>
+        <source>About CMVElement</source>
+        <translation>Acerca de CMVElement</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;CMV Element&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;CMV Element&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;CMVElement&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CMVElement&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The CMVElement developers
-Copyright © 2020 The CMV Element developers</source>
+Copyright © 2020 The CMVElement developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The CMVElement developers
-Copyright © 2020 The CMV Element developers</translation>
+Copyright © 2020 The CMVElement developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your CMV Element addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de CMV Element para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your CMVElement addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de CMVElement para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a CMV Element address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de CMV Element</translation>
+        <source>Sign a message to prove you own a CMVElement address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de CMVElement</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified CMV Element address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de CMV Element</translation>
+        <source>Verify a message to ensure it was signed with a specified CMVElement address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de CMVElement</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>CMV Element will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>CMV Element cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>CMVElement will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>CMVElement cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about CMV Element</source>
-        <translation>Mostrar información sobre CMV Element</translation>
+        <source>Show information about CMVElement</source>
+        <translation>Mostrar información sobre CMVElement</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a CMV Element address</source>
-        <translation>Enviar monedas a una dirección de CMV Element</translation>
+        <source>Send coins to a CMVElement address</source>
+        <translation>Enviar monedas a una dirección de CMVElement</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for CMV Element</source>
-        <translation>Modificar las opciones de configuración para CMV Element</translation>
+        <source>Modify configuration options for CMVElement</source>
+        <translation>Modificar las opciones de configuración para CMVElement</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-200"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About CMV Element</source>
-        <translation>Acerca de CMV Element</translation>
+        <source>&amp;About CMVElement</source>
+        <translation>Acerca de CMVElement</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>CMV Element client</source>
-        <translation>Cliente CMV Element</translation>
+        <source>CMVElement client</source>
+        <translation>Cliente CMVElement</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to CMV Element network</source>
-        <translation><numerusform>%n conexión activa a la red CMV Element</numerusform><numerusform>%n conexiones activas a la red CMV Element</numerusform></translation>
+        <source>%n active connection(s) to CMVElement network</source>
+        <translation><numerusform>%n conexión activa a la red CMVElement</numerusform><numerusform>%n conexiones activas a la red CMVElement</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -662,8 +662,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid CMV Element address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de CMV Element no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CMVElement address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de CMVElement no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -722,8 +722,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. CMV Element can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. CMV Element ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. CMVElement can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. CMVElement ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1056,8 +1056,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid CMV Element address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de CMV Element.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid CMVElement address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de CMVElement.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1075,8 +1075,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>CMV Element-Qt</source>
-        <translation>CMV Element-Qt</translation>
+        <source>CMVElement-Qt</source>
+        <translation>CMVElement-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,13 +1148,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start CMV Element after logging in to the system.</source>
-        <translation>Iniciar CMV Element automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start CMVElement after logging in to the system.</source>
+        <translation>Iniciar CMVElement automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start CMV Element on system login</source>
-        <translation>&amp;Iniciar CMV Element al inicio del sistema</translation>
+        <source>&amp;Start CMVElement on system login</source>
+        <translation>&amp;Iniciar CMVElement al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1173,8 +1173,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the CMV Element client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente CMV Element en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the CMVElement client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente CMVElement en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the CMV Element network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de CMV Element a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the CMVElement network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de CMVElement a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,8 +1258,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting CMV Element.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar CMV Element.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CMVElement.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar CMVElement.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1273,8 +1273,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show CMV Element addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de CMV Element en la lista de transacciones o no.</translation>
+        <source>Whether to show CMVElement addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de CMVElement en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1320,8 +1320,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting CMV Element.</source>
-        <translation>Esta configuración se aplicará después de reiniciar CMV Element.</translation>
+        <source>This setting will take effect after restarting CMVElement.</source>
+        <translation>Esta configuración se aplicará después de reiniciar CMVElement.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1339,8 +1339,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMV Element network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red CMV Element después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMVElement network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red CMVElement después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1555,8 +1555,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the CMV Element-Qt help message to get a list with possible CMV Element command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de CMV Element-Qt para obtener una lista con las posibles opciones de línea de comandos para CMV Element.</translation>
+        <source>Show the CMVElement-Qt help message to get a list with possible CMVElement command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de CMVElement-Qt para obtener una lista con las posibles opciones de línea de comandos para CMVElement.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1575,13 +1575,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>CMV Element - Debug window</source>
-        <translation>CMV Element - Ventana de depuración</translation>
+        <source>CMVElement - Debug window</source>
+        <translation>CMVElement - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>CMV Element Core</source>
-        <translation>Núcleo CMV Element</translation>
+        <source>CMVElement Core</source>
+        <translation>Núcleo CMVElement</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1590,8 +1590,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the CMV Element debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de CMV Element del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the CMVElement debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de CMVElement del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the CMV Element RPC console.</source>
-        <translation>Bienvenido a la consola RPC de CMV Element</translation>
+        <source>Welcome to the CMVElement RPC console.</source>
+        <translation>Bienvenido a la consola RPC de CMVElement</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1759,8 +1759,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduce una dirección CMV Element (p.ej. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduce una dirección CMVElement (p.ej. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1859,8 +1859,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid CMV Element address</source>
-        <translation>ADVERTENCIA: Dirección CMV Element inválida</translation>
+        <source>WARNING: Invalid CMVElement address</source>
+        <translation>ADVERTENCIA: Dirección CMVElement inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1933,8 +1933,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduce una dirección CMV Element (p.ej. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduce una dirección CMVElement (p.ej. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1994,8 +1994,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this CMV Element address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección CMV Element.</translation>
+        <source>Sign the message to prove you own this CMVElement address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección CMVElement.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,8 +2026,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified CMV Element address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección CMV Element especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified CMVElement address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección CMVElement especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2037,8 +2037,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduce una dirección CMV Element (p.ej 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduce una dirección CMVElement (p.ej 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter CMV Element signature</source>
-        <translation>Introduce la firma CMV Element</translation>
+        <source>Enter CMVElement signature</source>
+        <translation>Introduce la firma CMVElement</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2618,8 +2618,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>CMV Element version</source>
-        <translation>versión CMV Element</translation>
+        <source>CMVElement version</source>
+        <translation>versión CMVElement</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,8 +2628,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or CMV Elementd</source>
-        <translation>Envía un comando a -server o CMV Elementd</translation>
+        <source>Send command to -server or CMVElementd</source>
+        <translation>Envía un comando a -server o CMVElementd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2651,13 +2651,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: CMV Element.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: CMV Element.conf)</translation>
+        <source>Specify configuration file (default: CMVElement.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: CMVElement.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: CMV Elementd.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: CMV Elementd.pid)</translation>
+        <source>Specify pid file (default: CMVElementd.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: CMVElementd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMV Element will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo CMV Element no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMVElement will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo CMVElement no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=CMV Elementrpc
+rpcuser=CMVElementrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CMVElement Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=CMV Elementrpc
+rpcuser=CMVElementrpc
 rpcpassword=%s
 (no necesita recordar este password)
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;CMVElement Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3149,13 +3149,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  CMV Element is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. CMV Element probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  CMVElement is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. CMVElement probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CMV Element</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de CMV Element</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CMVElement</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de CMVElement</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart CMV Element to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie CMV Element para completar</translation>
+        <source>Wallet needed to be rewritten: restart CMVElement to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie CMVElement para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. CMV Element is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. CMV Element probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. CMVElement is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. CMVElement probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

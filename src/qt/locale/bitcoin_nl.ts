@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About CMV Element</source>
-        <translation>Over CMV Element</translation>
+        <source>About CMVElement</source>
+        <translation>Over CMVElement</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;CMV Element&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;CMV Element&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;CMVElement&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;CMVElement&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The CMVElement developers
-Copyright © 2020 The CMV Element developers</source>
+Copyright © 2020 The CMVElement developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De CMVElement ontwikkelaars
-Copyright © 2020 De CMV Element ontwikkelaars</translation>
+Copyright © 2020 De CMVElement ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your CMV Element addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou CMV Element adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your CMVElement addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou CMVElement adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a CMV Element address</source>
-        <translation>Teken een bericht om te bewijzen dat je een CMV Element adres bezit.</translation>
+        <source>Sign a message to prove you own a CMVElement address</source>
+        <translation>Teken een bericht om te bewijzen dat je een CMVElement adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified CMV Element address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek CMV Element adres</translation>
+        <source>Verify a message to ensure it was signed with a specified CMVElement address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek CMVElement adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>CMV Element will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>CMV Element zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>CMVElement will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>CMVElement zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about CMV Element</source>
-        <translation>Toon informatie over CMV Element</translation>
+        <source>Show information about CMVElement</source>
+        <translation>Toon informatie over CMVElement</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a CMV Element address</source>
-        <translation>Verstuur munten naar een CMV Element adres</translation>
+        <source>Send coins to a CMVElement address</source>
+        <translation>Verstuur munten naar een CMVElement adres</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for CMV Element</source>
-        <translation>Verander configuratie opties voor CMV Element</translation>
+        <source>Modify configuration options for CMVElement</source>
+        <translation>Verander configuratie opties voor CMVElement</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-200"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About CMV Element</source>
-        <translation>&amp;Over CMV Element</translation>
+        <source>&amp;About CMVElement</source>
+        <translation>&amp;Over CMVElement</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>CMV Element client</source>
-        <translation>CMV Element client</translation>
+        <source>CMVElement client</source>
+        <translation>CMVElement client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to CMV Element network</source>
-        <translation><numerusform>%n actieve verbinding naar CMV Element netwerk</numerusform><numerusform>%n actieve verbindingen naar CMV Element netwerk</numerusform></translation>
+        <source>%n active connection(s) to CMVElement network</source>
+        <translation><numerusform>%n actieve verbinding naar CMVElement netwerk</numerusform><numerusform>%n actieve verbindingen naar CMVElement netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid CMV Element address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig CMV Element adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid CMVElement address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig CMVElement adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,7 +719,7 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. CMV Element can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. CMVElement can no longer continue safely and will quit.</source>
         <translation>Een fatale fout . BTestcoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
@@ -1053,7 +1053,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid CMV Element address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid CMVElement address.</source>
         <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig BTestcoin adres.</translation>
     </message>
     <message>
@@ -1072,8 +1072,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>CMV Element-Qt</source>
-        <translation>CMV Element-Qt</translation>
+        <source>CMVElement-Qt</source>
+        <translation>CMVElement-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,12 +1145,12 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start CMV Element after logging in to the system.</source>
+        <source>Automatically start CMVElement after logging in to the system.</source>
         <translation>Automatisch starten van BTestcoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start CMV Element on system login</source>
+        <source>&amp;Start CMVElement on system login</source>
         <translation>&amp;Start BTestcoin bij systeem aanmelding</translation>
     </message>
     <message>
@@ -1170,8 +1170,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the CMV Element client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De CMV Element client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the CMVElement client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De CMVElement client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the CMV Element network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het CMV Element netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the CMVElement network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het CMVElement netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting CMV Element.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na CMV Element opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CMVElement.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na CMVElement opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show CMV Element addresses in the transaction list or not.</source>
-        <translation>CMV Element adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show CMVElement addresses in the transaction list or not.</source>
+        <translation>CMVElement adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting CMV Element.</source>
-        <translation>Deze instelling word toegepast na een restart van CMV Element.</translation>
+        <source>This setting will take effect after restarting CMVElement.</source>
+        <translation>Deze instelling word toegepast na een restart van CMVElement.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMV Element network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het CMV Element netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CMVElement network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het CMVElement netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,7 +1552,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the CMV Element-Qt help message to get a list with possible CMV Element command-line options.</source>
+        <source>Show the CMVElement-Qt help message to get a list with possible CMVElement command-line options.</source>
         <translation>Laat het BTestcoin-QT help bericht zien om een lijst te krijgen met mogelijke BTestcoin command-regel opties.</translation>
     </message>
     <message>
@@ -1572,13 +1572,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>CMV Element - Debug window</source>
+        <source>CMVElement - Debug window</source>
         <translation>BTestcoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>CMV Element Core</source>
-        <translation>CMV Element Kern</translation>
+        <source>CMVElement Core</source>
+        <translation>CMVElement Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the CMV Element debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het CMV Element debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the CMVElement debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het CMVElement debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the CMV Element RPC console.</source>
-        <translation>Welkom bij de CMV Element RPC console.</translation>
+        <source>Welcome to the CMVElement RPC console.</source>
+        <translation>Welkom bij de CMVElement RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,7 +1756,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation>Voeg een BTestcoin adres in (bijv. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
@@ -1856,7 +1856,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid CMV Element address</source>
+        <source>WARNING: Invalid CMVElement address</source>
         <translation>WAARSCHUWING: Ongeldig BTestcoin adres</translation>
     </message>
     <message>
@@ -1930,7 +1930,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation>Voeg een BTestcoin adres in (bijv. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
@@ -1991,8 +1991,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this CMV Element address</source>
-        <translation>Teken een bericht om te bewijzen dat je een CMV Element adres bezit.</translation>
+        <source>Sign the message to prove you own this CMVElement address</source>
+        <translation>Teken een bericht om te bewijzen dat je een CMVElement adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified CMV Element address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek CMV Element adres</translation>
+        <source>Verify the message to ensure it was signed with the specified CMVElement address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek CMVElement adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,7 +2034,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a CMV Element address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <source>Enter a CMVElement address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
         <translation>Voeg een BTestcoin adres in (bijv. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter CMV Element signature</source>
-        <translation>Voer CMV Element handtekening in</translation>
+        <source>Enter CMVElement signature</source>
+        <translation>Voer CMVElement handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>CMV Element version</source>
-        <translation>CMV Element versie</translation>
+        <source>CMVElement version</source>
+        <translation>CMVElement versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or CMV Elementd</source>
-        <translation>Verstuur commando naar -server of CMV Elementd</translation>
+        <source>Send command to -server or CMVElementd</source>
+        <translation>Verstuur commando naar -server of CMVElementd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: CMV Element.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: CMV Element.conf)</translation>
+        <source>Specify configuration file (default: CMVElement.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: CMVElement.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: CMV Elementd.pid)</source>
-        <translation>Selecteer pid bestand (standaard: CMV Element.conf)</translation>
+        <source>Specify pid file (default: CMVElementd.pid)</source>
+        <translation>Selecteer pid bestand (standaard: CMVElement.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMV Element will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is CMV Element zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CMVElement will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is CMVElement zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=CMV Elementrpc
+rpcuser=CMVElementrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;CMV Element Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;CMVElement Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = CMV Elementrpc 
+rpcuser = CMVElementrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;CMV Element Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;CMVElement Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3131,13 +3131,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;CMV Element Alert&quot; adm
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  CMV Element is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. CMV Element wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  CMVElement is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. CMVElement wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>CMV Element</source>
-        <translation>CMV Element</translation>
+        <source>CMVElement</source>
+        <translation>CMVElement</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3171,13 +3171,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;CMV Element Alert&quot; adm
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of CMV Element</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van CMV Element</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CMVElement</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van CMVElement</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart CMV Element to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart CMV Element om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart CMVElement to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart CMVElement om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3246,8 +3246,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;CMV Element Alert&quot; adm
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. CMV Element is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. CMV Element is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. CMVElement is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. CMVElement is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>
