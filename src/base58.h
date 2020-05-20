@@ -278,7 +278,7 @@ public:
     {
         PUBKEY_ADDRESS = 87, //c
         SCRIPT_ADDRESS = 56,
-        PUBKEY_ADDRESS_TEST = 137,
+        PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
     };
 
