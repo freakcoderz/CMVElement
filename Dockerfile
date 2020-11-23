@@ -48,7 +48,7 @@ WORKDIR /work
 
 RUN mkdir -p /root/.CMVE/
 COPY docker/config/CMVE.conf /root/.CMVE/
-RUN chmod u+r-wx,g-rwx,o-rwx /root/.CMVE/CMVE.conf
+RUN chmod u+r-wx,g-rwx,o-rwx /root/.CMVE/CMVElement.conf
 
 # ===============================================================================
 # System Initialization
