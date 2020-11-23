@@ -1,6 +1,6 @@
 ### CMVElement
 
-<img src="https://i.imgur.com/a7dzshC.png">
+<img src="https://cmve.freakhouse.dev/images/logo.png">
 
 ## Important Links
 
